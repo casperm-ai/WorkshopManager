@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/WorkshopManager/bin/Debug/netcoreapp3.1
+/src/WorkshopManager/obj
+*.user
+/src/WorkshopManager/Properties/launchSettings.json
